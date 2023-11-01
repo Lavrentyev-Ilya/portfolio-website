@@ -9,7 +9,7 @@ body{
    flex-direction: column;
    font-family: "Outfit", sans-serif;
 }
-span{
+span.fa-duotone{
    font-family: fontawesome !important;
 }
 h2{
@@ -50,6 +50,7 @@ nav a{
 }
 .navItem{
    margin-left: 10px;
+   font-family: "Outfit", sans-serif;
 }
 nav a:hover{
    color: var(--theme-color);
