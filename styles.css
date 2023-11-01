@@ -162,6 +162,7 @@ section{
 .galleryBlock img{
    width: 200px;
    border-radius: 8px;
+   border: 10px solid var(--theme-color);
 }
 .galleryBlock div{
    display: flex;
