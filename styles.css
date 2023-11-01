@@ -111,6 +111,7 @@ section{
    align-items: center;
    width: 400px;
    gap: 20px;
+   border-radius: 8px;
 }
 .mainGameBlock{
    font-size: 70px;
