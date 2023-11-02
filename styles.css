@@ -91,6 +91,7 @@ section{
 .aboutMeWrap img{
    width: clamp(250px, 20vw, 400px);
    border-radius: 8px;
+   border: 5px solid var(--theme-color);
 }
 .aboutMeWrap .aboutmeTxt{
    align-self: flex-start;
